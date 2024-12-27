@@ -1,0 +1,23 @@
+{        
+    "note_id": "文章编号",
+    "type": "video",
+    "title": "文章标题",
+    "desc": "文章描述",
+    "video_url": "文章中视频的链接",
+    "time": "本文发表的时间(unix时间戳)",
+    "last_update_time": "本文最后一次更新时间(unix时间戳)",
+    "user_id": "博主id",
+    "nickname": "博主name",
+    "avatar": "博主头像的链接",
+    "liked_count": "本文章的点赞数",
+    "collected_count": "本文章的收藏数",
+    "comment_count": "本文的评论数",
+    "share_count": "本文的分享数",
+    "ip_location": "博主的ip地址所在地,有很多没有爬到的,参数废弃",
+    "image_list": "文章中出现的图片的链接",
+    "tag_list": "tags",
+    "last_modify_ts": "脚本程序写入本条数据的时间戳",
+    "note_url": "文章的链接",
+    "source_keyword": "本次爬虫的关键词",
+    "xsec_token": "小红书的token"
+}
